@@ -1,0 +1,39 @@
+head title{
+
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 30px;
+   
+}
+
+body{
+    font-family:Verdana;
+    font-size: 20px;
+    text-align:center;
+    
+}
+body {
+    background-color: white;
+    
+    
+}
+.nameteam{
+    color:darkblue;
+    text-align: center;
+    font-style: oblique;
+    font-size: 40px;
+    
+}
+body h1{
+    text-align: center;
+    color:rgb(40, 40, 116);
+}
+.team{
+    text-align: center;
+    }
+.team img{
+    width: 20%;
+    }
+.actions{
+    text-align: center;
+    
+}
